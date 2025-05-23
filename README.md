@@ -1,4 +1,4 @@
-# Projet *Prédiction de la qualité de soudures* TD3 groupe 3
+# Project *Weld quality prediction* TD3 group 3
 
 ![Image soudure](./figures/soudure.jpg)
 
